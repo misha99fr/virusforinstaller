@@ -1,3 +1,3 @@
-The Virus For Fake.Windows.Setup trojan
+The Repository for my First trojan
 
- Warning for educational purposes
+Don't launch it on real PC
